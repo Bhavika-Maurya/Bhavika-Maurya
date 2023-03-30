@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Bhavika</h1>
 
 # 💫 About Me:
-👩‍💻 Frontend Web Developer<br>📝 Tech Writing<br>💼 Open To Job Opportunities<br>🌱 Learning MERN stack
+👩‍💻 Frontend Web Developer<br>📝 Technical Writer<br>💼 Open To Job Opportunities<br>🌱 Learning MERN stack
 
 
 ## 🌐 Socials:
